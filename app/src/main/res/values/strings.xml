@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MASDA</string>
+    <string name="app_version">Tim AMAL | Versi %s</string>
+    <string name="tombol_refresh">Tombol Refresh</string>
+    <string name="tombol_histori_notifikasi">Tombol Histori Notifikasi</string>
+    <string name="tombol_login_akun">Tombol Login Akun</string>
+    <string name="logo_bus">Logo Bus</string>
+    <string name="monitoring_angkutan_sekolah_daerah">Monitoring Angkutan Sekolah Daerah</string>
+    <string name="masukkan_nisn">Masukkan NISN</string>
+    <string name="tutup">Tutup</string>
+    <string name="nisn">NISN</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="informasi_pelajar">Informasi Pelajar</string>
+    <string name="nama">Nama :</string>
+    <string name="sekolah">Sekolah :</string>
+    <string name="ubah_password">Ubah Password</string>
+    <string name="logout">LOGOUT</string>
+    <string name="nisn2">NISN :</string>
+    <string name="password_baru">Password Baru</string>
+    <string name="password_lama">Password Lama</string>
+    <string name="lihat_lokasi">Lihat Lokasi</string>
+    <string name="notifikasi">Histori Notifikasi</string>
+    <string name="histori_7_hari_terakhir">Menampilkan histori 7 hari terakhir.</string>
+</resources>
